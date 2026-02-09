@@ -23,7 +23,8 @@
 
 ## 🌟 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandramarincodes)](https://github.com/sandramarincodes/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandramarincodes&hide=javascript,css,scss,html&theme=tokyonight)
+
 
 ---
 ## 🌍 Languages
