@@ -6,7 +6,7 @@
 
 🌱 Currently learning **Python**
 
-👯 Open to collaborate on **frontend or full-stack commercial projects** in product-driven teams
+🗂️ Open to collaborate on **frontend or full-stack commercial projects** in product-driven teams
 
 💬 Ask me about **React, SEO-driven development or turning business needs into technical solutions**
 
@@ -14,19 +14,13 @@
 
 ---
 
-## My Skills – Technologies I use
+## Technologies I use
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind,nodejs,express,mysql,git,github,vscode)
 ![My Skills](https://skillicons.dev/icons?i=appwrite,figma)
 
 ---
 
-## 🌟 Most Used Languages
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandramarincodes&hide=javascript,css,scss,html&theme=tokyonight)
-
-
----
 ## 🌍 Languages
 
 - 🇬🇧 English – C1 (Certified)
