@@ -1,8 +1,8 @@
 # Hi, I'm Sandra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-💻 **Junior Software Engineer** with professional experience building **frontend applications with React, Next.js and TypeScript**, as well as **backend services using Node.js, Express and MySQL**. I have a background in **SEO & marketing**
+💻 **Software Engineer** with professional experience building **frontend applications with React, Next.js and TypeScript**, as well as **backend services using Node.js, Express and MySQL**. I have a background in **SEO & marketing**
 
-🏢 I’ve worked in **startups**, collaborating in agile environments (**Scrum / Kanban**) and building features used in production
+🏢 I’ve worked in **startups** and **digital consultancy**, collaborating in agile environments (**Scrum / Kanban**) and building features used in production
 
 🌱 Currently learning **Python**
 
